@@ -1,0 +1,1 @@
+# Parallelization-of-Triangular-Raster-Anti-aliasing-Algorithms
