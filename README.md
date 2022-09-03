@@ -2,6 +2,22 @@
 
 Studied the parallelization of two main anti-aliasing algorithms with a classmate to accelerate the anti-aliasing algorithm of triangle rasterization.
 
+### Quick Start
+
+The code for the effect display is under the codes folder. If you want to run the code, you can use the following command under the file directory.
+
+Note: you need to have eigen in your environment.
+
+```
+mkdir build
+cd build
+cmake ..
+make -j4
+./Rasterizer
+```
+
+
+
 ### Added the code of the low-pass filter based on the framework code of the GAMES101 (Assignment 2) framework.
 
 The picture before using anti-aliasing algorithms is listed below.
